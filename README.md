@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vihitha!;B.Tech+in+IT+@+Anna+Unniversity;Developer+Associate+@+SAP+Labs,+Bangalore;)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Vihitha!;B.Tech+in+IT+@+Anna+Unniversity;Developer+Associate+@+SAP+Labs,+Bangalore"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=vihi28&label=Profile%20views&color=0047AB&style=plastic?" alt="vihi28" height=25px, width=160px/> 
