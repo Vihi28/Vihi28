@@ -1,5 +1,7 @@
 <img align="center" height=250 src="https://github.com/Vihi28/Vihi28/blob/main/Banner.png"/>
-<h1 align="center">Hello👋 fellow <Developers/>! </h1>
+<div align="center">
+<h2> Hello👋 fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+</div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vihitha!;Completed+B.Tech+in+IT+@+Anna+University;Currently+working+as+a+Developer+Associate+@+SAP+Labs,+Bangalore;)](https://git.io/typing-svg)
 
