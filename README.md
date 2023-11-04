@@ -8,8 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Vihitha!;B.Tech+in+IT+@+Anna+Unniversity;Developer+Associate+@+SAP+Labs,+Bangalore"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=vihi28&label=Hits&color=0047AB&style=plastic?" alt="vihi28" height=25px, width=160px/> 
-
 🚀 B.Tech graduate (Information Technology) from Anna University's Madras Institute of Technology, boasting an impressive CGPA of 9.25.
 
 🌟 Perfect 10/10 CGPA in Class 10, demonstrating a history of academic excellence.
